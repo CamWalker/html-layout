@@ -1,0 +1,42 @@
+main{
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: lighter;
+  color: #333;
+}
+header {
+  background-color: #ccc;
+  height: 125px;
+  display: flex;
+  align-items: center;
+
+}
+.logo {
+  background-color: #427dd5;
+  height: 100px;
+  width: 100px;
+  margin-left: 25px;
+}
+.content {
+  height: auto;
+  padding: 50px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.blue {
+  background-color: #427dd5;
+  height: 150px;
+}
+.mint {
+  background-color: #1bdbad;
+  height: 150px;
+}
+.green {
+  background-color: #aaee7b;
+  height: 150px;
+}
+.yellow {
+  background-color: #f7ee1a;
+  height: 150px;
+}
