@@ -1,0 +1,31 @@
+main {
+  display: flex;
+}
+.rect {
+  width: 33.3333333%;
+  height: 1200px;
+}
+.blue {
+  background-color: rgb(45, 144, 226);
+}
+.mint {
+  background-color: rgb(42, 224, 186);
+}
+.green {
+  background-color: rgb(175, 222, 115);
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+.red{
+  background: #c41a1a;
+  width: 100%;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: white;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
